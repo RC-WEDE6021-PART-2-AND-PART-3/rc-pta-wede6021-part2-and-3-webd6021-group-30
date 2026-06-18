@@ -1,0 +1,10 @@
+first_name last_name username email MD5_password
+Naledi Dlamini naledi01 naledi.dlamini@webmail.co.za 2ac9cb7dc02b3c0083eb70898e549b63
+James van der Berg jvdb01 james.vdb@gmail.com 2ac9cb7dc02b3c0083eb70898e549b63
+Fatima Patel fatima01 fatima.patel@outlook.com 2ac9cb7dc02b3c0083eb70898e549b63
+Sipho Mokoena sipho01 sipho.mokoena@pastimes.co.za 2ac9cb7dc02b3c0083eb70898e549b63
+Sarah Smith sarah01 sarah.smith@gmail.com 2ac9cb7dc02b3c0083eb70898e549b63
+Mike Johnson mike01 mike.johnson@gmail.com 2ac9cb7dc02b3c0083eb70898e549b63
+Lisa Brown lisa01 lisa.brown@yahoo.com 2ac9cb7dc02b3c0083eb70898e549b63
+David Wilson david01 david.wilson@webmail.co.za 2ac9cb7dc02b3c0083eb70898e549b63
+Lerato Mokoena lerato01 lerato.mokoena@gmail.com 2ac9cb7dc02b3c0083eb70898e549b63
